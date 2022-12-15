@@ -14,7 +14,7 @@ export const projectData = {
         "html.png",
         "github.png",
       ],
-      img: `${path}amazon-copy-project.png`,
+      img: `${path}amazon-copy-project.jpg`,
     },
     {
       name: "Ecommerce Project",
@@ -29,7 +29,7 @@ export const projectData = {
         "css.png",
         "github.png",
       ],
-      img: `${path}ecommerce-project.png`,
+      img: `${path}ecommerce-project.jpg`,
     },
     {
       name: "Social Media App",
@@ -45,7 +45,7 @@ export const projectData = {
         "javascript.png",
         "github.png",
       ],
-      img: `${path}social-media-project.png`,
+      img: `${path}social-media-project.jpg`,
     },
     {
       name: "My Alimentation",
@@ -59,7 +59,7 @@ export const projectData = {
         "html.png",
         "css.png",
       ],
-      img: `${path}MYAlimentation-project.png`,
+      img: `${path}MYAlimentation-project.jpg`,
     },
     {
       name: "Javascript Practice",
@@ -67,7 +67,7 @@ export const projectData = {
       url: "https://kotza01.github.io/Javascript-practices/",
       tecnologiesPath: path,
       tecnologies: ["javascript.png", "css.png", "html.png", "github.png"],
-      img: `${path}javascript-practice-project.png`,
+      img: `${path}javascript-practice-project.jpg`,
     },
     {
       name: "Portafolio V1",
@@ -75,7 +75,7 @@ export const projectData = {
       tecnologiesPath: path,
       url: "https://kotza01.github.io/portafolio/",
       tecnologies: ["javascript.png", "css.png", "html.png", "github.png"],
-      img: `${path}portafolio-project.png`,
+      img: `${path}portafolio-project.jpg`,
     },
   ],
 };

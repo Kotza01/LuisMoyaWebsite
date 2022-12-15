@@ -18,19 +18,19 @@
 @font-face {
   font-family: "open-sand-hebrew-condensed-regular";
   font-weight: normal;
-  src: url("/assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Regular.woff");
+  src: url("../assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Regular.woff");
 }
 
 @font-face {
   font-family: "open-sand-hebrew-condensed-bold";
   font-weight: normal;
-  src: url("/assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Bold.woff");
+  src: url("../assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Bold.woff");
 }
 
 @font-face {
   font-family: "open-sand-hebrew-condensed-light";
   font-weight: normal;
-  src: url("/assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Light.woff");
+  src: url("../assets/open-sand-hebrew-condensed/OpenSansHebrewCondensed-Light.woff");
 }
 
 /* ********** Reset ********** */
