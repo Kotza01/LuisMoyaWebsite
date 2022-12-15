@@ -59,7 +59,7 @@ export const projectData = {
         "html.png",
         "css.png",
       ],
-      img: `${path}MYAlimentation-project.jpg`,
+      img: `${path}MYalimentation-project.jpg`,
     },
     {
       name: "Javascript Practice",
